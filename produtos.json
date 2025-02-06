@@ -1,0 +1,122 @@
+[
+  {
+    "nome": "Arroz Branco 5kg",
+    "imagem": "https://example.com/imagens/arroz.jpg",
+    "link": "https://example.com/comprar/arroz",
+    "preco": 24.90
+  },
+  {
+    "nome": "Feijão Carioca 1kg",
+    "imagem": "https://example.com/imagens/feijao.jpg",
+    "link": "https://example.com/comprar/feijao",
+    "preco": 8.50
+  },
+  {
+    "nome": "Óleo de Soja 900ml",
+    "imagem": "https://example.com/imagens/oleo.jpg",
+    "link": "https://example.com/comprar/oleo",
+    "preco": 7.90
+  },
+  {
+    "nome": "Açúcar Refinado 1kg",
+    "imagem": "https://example.com/imagens/acucar.jpg",
+    "link": "https://example.com/comprar/acucar",
+    "preco": 5.80
+  },
+  {
+    "nome": "Café Torrado e Moído 500g",
+    "imagem": "https://example.com/imagens/cafe.jpg",
+    "link": "https://example.com/comprar/cafe",
+    "preco": 12.90
+  },
+  {
+    "nome": "Leite Integral 1L",
+    "imagem": "https://example.com/imagens/leite.jpg",
+    "link": "https://example.com/comprar/leite",
+    "preco": 6.40
+  },
+  {
+    "nome": "Macarrão Espaguete 500g",
+    "imagem": "https://example.com/imagens/macarrao.jpg",
+    "link": "https://example.com/comprar/macarrao",
+    "preco": 4.50
+  },
+  {
+    "nome": "Margarina 500g",
+    "imagem": "https://example.com/imagens/margarina.jpg",
+    "link": "https://example.com/comprar/margarina",
+    "preco": 6.20
+  },
+  {
+    "nome": "Biscoito Recheado 140g",
+    "imagem": "https://example.com/imagens/biscoito.jpg",
+    "link": "https://example.com/comprar/biscoito",
+    "preco": 2.99
+  },
+  {
+    "nome": "Farinha de Trigo 1kg",
+    "imagem": "https://example.com/imagens/farinha.jpg",
+    "link": "https://example.com/comprar/farinha",
+    "preco": 5.70
+  },
+  {
+    "nome": "Detergente Líquido 500ml",
+    "imagem": "https://example.com/imagens/detergente.jpg",
+    "link": "https://example.com/comprar/detergente",
+    "preco": 2.50
+  },
+  {
+    "nome": "Sabão em Pó 1kg",
+    "imagem": "https://example.com/imagens/sabao.jpg",
+    "link": "https://example.com/comprar/sabao",
+    "preco": 10.90
+  },
+  {
+    "nome": "Papel Higiênico 4 Rolos",
+    "imagem": "https://example.com/imagens/papel_higienico.jpg",
+    "link": "https://example.com/comprar/papel_higienico",
+    "preco": 7.80
+  },
+  {
+    "nome": "Água Mineral 1.5L",
+    "imagem": "https://example.com/imagens/agua.jpg",
+    "link": "https://example.com/comprar/agua",
+    "preco": 2.30
+  },
+  {
+    "nome": "Refrigerante Cola 2L",
+    "imagem": "https://example.com/imagens/refrigerante.jpg",
+    "link": "https://example.com/comprar/refrigerante",
+    "preco": 8.90
+  },
+  {
+    "nome": "Iogurte Natural 170g",
+    "imagem": "https://example.com/imagens/iogurte.jpg",
+    "link": "https://example.com/comprar/iogurte",
+    "preco": 3.50
+  },
+  {
+    "nome": "Queijo Mussarela 500g",
+    "imagem": "https://example.com/imagens/queijo.jpg",
+    "link": "https://example.com/comprar/queijo",
+    "preco": 25.00
+  },
+  {
+    "nome": "Presunto Cozido 500g",
+    "imagem": "https://example.com/imagens/presunto.jpg",
+    "link": "https://example.com/comprar/presunto",
+    "preco": 18.00
+  },
+  {
+    "nome": "Carne Moída 1kg",
+    "imagem": "https://example.com/imagens/carne_moida.jpg",
+    "link": "https://example.com/comprar/carne_moida",
+    "preco": 32.00
+  },
+  {
+    "nome": "Frango Congelado 1kg",
+    "imagem": "https://example.com/imagens/frango.jpg",
+    "link": "https://example.com/comprar/frango",
+    "preco": 14.90
+  }
+]
